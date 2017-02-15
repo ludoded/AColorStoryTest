@@ -1,0 +1,37 @@
+[
+ {
+     "name" : "apples",
+     "baskets" : [10,20,30],
+     "unit_costs" : 0.26
+ },
+ {
+     "name" : "bananas",
+     "baskets" : [0,20,30],
+     "unit_costs" : 0.6
+ },
+ {
+     "name" : "blueberries",
+     "baskets" : [10,100],
+     "unit_costs" : 0.2
+ },
+ {
+     "name" : "peaches",
+     "baskets" : [],
+     "unit_costs" : 0.4
+ },
+ {
+     "name" : "papayas",
+     "baskets" : [10,2000,30],
+     "unit_costs" : 2.06
+ },
+ {
+     "name" : "lemons",
+     "baskets" : [10],
+     "unit_costs" : 0.001
+ },
+ {
+     "name" : "very long name of fruit, to see if it fits in the cell for the small inch screens.",
+     "baskets" : [10],
+     "unit_costs" : 0.001
+ }
+]
